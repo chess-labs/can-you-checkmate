@@ -1,0 +1,7 @@
+@import 'tailwindcss';
+
+@layer base {
+  .using-mouse * {
+    outline: none !important;
+  }
+}
